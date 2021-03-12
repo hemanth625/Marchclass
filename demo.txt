@@ -6,3 +6,5 @@ changing lines from my console
  hey testing conflicts
 
 this is achange done by developer b
+
+this a change done by developer c
