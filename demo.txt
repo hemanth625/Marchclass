@@ -5,4 +5,7 @@ changing lines from my console
 testing
  this is a test demo file created 
  hey testing conflicts
-Update demo.txt
+this is achange done by developer b
+
+this a change done by developer c
+
